@@ -1,0 +1,3 @@
+include ':UniqueIDLibrary'
+include ':app'
+rootProject.name = "UniqueID"
