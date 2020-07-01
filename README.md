@@ -12,5 +12,5 @@ allprojects {
   
    Add the dependency
 ```sh
-implementation 'com.github.Keldmar:UniqueAndroidID-Library:Tag'
+implementation 'com.github.Keldmar:UniqueAndroidID-Library:0.1.0'
 ```
